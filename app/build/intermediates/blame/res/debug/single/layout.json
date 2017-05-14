@@ -52,6 +52,14 @@
         "source": "/home/arieftebe/Documents/Portfolio/Android/Percobaan/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_popup_menu_header_item_layout.xml"
     },
     {
+        "merged": "/home/arieftebe/Documents/Portfolio/Android/Percobaan/app/build/intermediates/res/merged/debug/layout/activity_player.xml",
+        "source": "/home/arieftebe/Documents/Portfolio/Android/Percobaan/app/src/main/res/layout/activity_player.xml"
+    },
+    {
+        "merged": "/home/arieftebe/Documents/Portfolio/Android/Percobaan/app/build/intermediates/res/merged/debug/layout/activity_schedule.xml",
+        "source": "/home/arieftebe/Documents/Portfolio/Android/Percobaan/app/src/main/res/layout/activity_schedule.xml"
+    },
+    {
         "merged": "/home/arieftebe/Documents/Portfolio/Android/Percobaan/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
         "source": "/home/arieftebe/Documents/Portfolio/Android/Percobaan/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_screen_simple.xml"
     },
@@ -128,6 +136,10 @@
         "source": "/home/arieftebe/Documents/Portfolio/Android/Percobaan/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
+        "merged": "/home/arieftebe/Documents/Portfolio/Android/Percobaan/app/build/intermediates/res/merged/debug/layout/activity_detail_schedule.xml",
+        "source": "/home/arieftebe/Documents/Portfolio/Android/Percobaan/app/src/main/res/layout/activity_detail_schedule.xml"
+    },
+    {
         "merged": "/home/arieftebe/Documents/Portfolio/Android/Percobaan/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
         "source": "/home/arieftebe/Documents/Portfolio/Android/Percobaan/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_list_menu_item_layout.xml"
     },
@@ -142,6 +154,14 @@
     {
         "merged": "/home/arieftebe/Documents/Portfolio/Android/Percobaan/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
         "source": "/home/arieftebe/Documents/Portfolio/Android/Percobaan/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/arieftebe/Documents/Portfolio/Android/Percobaan/app/build/intermediates/res/merged/debug/layout/list_schedule.xml",
+        "source": "/home/arieftebe/Documents/Portfolio/Android/Percobaan/app/src/main/res/layout/list_schedule.xml"
+    },
+    {
+        "merged": "/home/arieftebe/Documents/Portfolio/Android/Percobaan/app/build/intermediates/res/merged/debug/layout/activity_detail_player.xml",
+        "source": "/home/arieftebe/Documents/Portfolio/Android/Percobaan/app/src/main/res/layout/activity_detail_player.xml"
     },
     {
         "merged": "/home/arieftebe/Documents/Portfolio/Android/Percobaan/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",

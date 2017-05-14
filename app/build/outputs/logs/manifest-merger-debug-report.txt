@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/arieftebe/Documents/Portfolio/Android/Percobaan/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /home/arieftebe/Documents/Portfolio/Android/Percobaan/app/src/main/AndroidManifest.xml:2:1-25:12
 	package
 		ADDED from /home/arieftebe/Documents/Portfolio/Android/Percobaan/app/src/main/AndroidManifest.xml:3:5-36
 		INJECTED from /home/arieftebe/Documents/Portfolio/Android/Percobaan/app/src/main/AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from /home/arieftebe/Documents/Portfolio/Android/Percobaan/app/src/main/An
 		INJECTED from /home/arieftebe/Documents/Portfolio/Android/Percobaan/app/src/main/AndroidManifest.xml
 		INJECTED from /home/arieftebe/Documents/Portfolio/Android/Percobaan/app/src/main/AndroidManifest.xml
 application
-ADDED from /home/arieftebe/Documents/Portfolio/Android/Percobaan/app/src/main/AndroidManifest.xml:5:5-19:19
+ADDED from /home/arieftebe/Documents/Portfolio/Android/Percobaan/app/src/main/AndroidManifest.xml:5:5-23:19
 MERGED from [com.android.support:appcompat-v7:25.3.1] /home/arieftebe/Documents/Portfolio/Android/Percobaan/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v4:25.3.1] /home/arieftebe/Documents/Portfolio/Android/Percobaan/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:25.3.1] /home/arieftebe/Documents/Portfolio/Android/Percobaan/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/AndroidManifest.xml:29:5-20
@@ -49,9 +49,25 @@ ADDED from /home/arieftebe/Documents/Portfolio/Android/Percobaan/app/src/main/An
 	android:name
 		ADDED from /home/arieftebe/Documents/Portfolio/Android/Percobaan/app/src/main/AndroidManifest.xml:15:27-74
 activity#com.arieftb.percobaan.MenuActivity
-ADDED from /home/arieftebe/Documents/Portfolio/Android/Percobaan/app/src/main/AndroidManifest.xml:18:9-59
+ADDED from /home/arieftebe/Documents/Portfolio/Android/Percobaan/app/src/main/AndroidManifest.xml:18:9-50
 	android:name
 		ADDED from /home/arieftebe/Documents/Portfolio/Android/Percobaan/app/src/main/AndroidManifest.xml:18:19-47
+activity#com.arieftb.percobaan.PlayerActivity
+ADDED from /home/arieftebe/Documents/Portfolio/Android/Percobaan/app/src/main/AndroidManifest.xml:19:9-52
+	android:name
+		ADDED from /home/arieftebe/Documents/Portfolio/Android/Percobaan/app/src/main/AndroidManifest.xml:19:19-49
+activity#com.arieftb.percobaan.DetailPlayerActivity
+ADDED from /home/arieftebe/Documents/Portfolio/Android/Percobaan/app/src/main/AndroidManifest.xml:20:9-58
+	android:name
+		ADDED from /home/arieftebe/Documents/Portfolio/Android/Percobaan/app/src/main/AndroidManifest.xml:20:19-55
+activity#com.arieftb.percobaan.ScheduleActivity
+ADDED from /home/arieftebe/Documents/Portfolio/Android/Percobaan/app/src/main/AndroidManifest.xml:21:9-54
+	android:name
+		ADDED from /home/arieftebe/Documents/Portfolio/Android/Percobaan/app/src/main/AndroidManifest.xml:21:19-51
+activity#com.arieftb.percobaan.DetailScheduleActivity
+ADDED from /home/arieftebe/Documents/Portfolio/Android/Percobaan/app/src/main/AndroidManifest.xml:22:9-69
+	android:name
+		ADDED from /home/arieftebe/Documents/Portfolio/Android/Percobaan/app/src/main/AndroidManifest.xml:22:19-57
 uses-sdk
 INJECTED from /home/arieftebe/Documents/Portfolio/Android/Percobaan/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:25.3.1] /home/arieftebe/Documents/Portfolio/Android/Percobaan/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/AndroidManifest.xml:21:5-23:78

@@ -16,4 +16,64 @@
         android:layout_height="wrap_content"
         android:text="sambutan"/>
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_below="@+id/tv_sambutan"
+        android:layout_marginTop="10dp">
+
+        <LinearLayout
+            android:id="@+id/ll_menuSchedule"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/lfclogo"
+                android:scaleType="centerCrop"
+                android:background="@color/textBtn"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/menu_schedule"
+                android:background="@color/colorPrimary"
+                android:textColor="@color/textBtn"
+                android:textAlignment="center"
+                android:gravity="center"/>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/ll_menuPlayer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="10dp">
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/lfclogo"
+                android:scaleType="centerCrop"
+                android:background="@color/textBtn"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/menu_player"
+                android:background="@color/colorPrimary"
+                android:textColor="@color/textBtn"
+                android:textAlignment="center"
+                android:gravity="center"/>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
 </RelativeLayout>

@@ -6,4 +6,12 @@
 
     <string name="login_btn">Login</string>
     <string name="reset_btn">Reset</string>
+
+    <string name="menu_schedule">Schedule</string>
+    <string name="menu_player">Player</string>
+
+    <string name="btn_incrase_jumlah_ticket">+</string>
+    <string name="btn_decrase_jumlah_ticket">-</string>
+
+    <string name="btn_order_ticket">Order</string>
 </resources>

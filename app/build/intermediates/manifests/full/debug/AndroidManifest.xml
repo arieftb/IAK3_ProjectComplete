@@ -26,6 +26,10 @@
             </intent-filter>
         </activity>
         <activity android:name="com.arieftb.percobaan.MenuActivity" />
+        <activity android:name="com.arieftb.percobaan.PlayerActivity" />
+        <activity android:name="com.arieftb.percobaan.DetailPlayerActivity" />
+        <activity android:name="com.arieftb.percobaan.ScheduleActivity" />
+        <activity android:name="com.arieftb.percobaan.DetailScheduleActivity" />
     </application>
 
 </manifest>
