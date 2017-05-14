@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Percobaan</string>
+
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+
+    <string name="login_btn">Login</string>
+    <string name="reset_btn">Reset</string>
+</resources>
