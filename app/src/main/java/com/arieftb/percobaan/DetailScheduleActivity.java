@@ -15,7 +15,7 @@ public class DetailScheduleActivity extends AppCompatActivity {
     ImageView ivDetailGambarSchedule;
     Button btnIncraseTicket, btnDecraseTicket, btnOrderTicket;
 
-    private int tampungJumlah, tampungHarga, totalHarga;
+    private int tampungJumlah, tampungHarga;
 
 
     @Override
